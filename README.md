@@ -1,37 +1,29 @@
 # Kamal Jaiswal
 
-### Building AI-Native SaaS & Agentic Revenue Systems
+### Founder & Builder @ Synergon AI
 
-I build **AI-native products and intelligent business systems** that connect conversations, agents, knowledge, memory, workflows, and business execution.
+I’m building **Synergon Suite** — an AI-native revenue platform designed to connect conversations, AI agents, CRM, knowledge, automation, and business workflows into one system.
 
-Currently building **Synergon Suite** — an AI-powered revenue platform designed to bring the modern sales stack together in one connected system.
+### What I'm Building
 
-### 🚀 Synergon Suite
+**Synergon Suite**
 
-**Your sales stack. Collapsed into one.**
+> **Your sales stack. Collapsed into one.**
 
-Synergon Suite connects:
+The platform brings together:
 
-`Conversations` · `WhatsApp` · `Voice AI` · `CRM` · `Campaigns` · `Knowledge` · `Workflows`
+`Conversations` · `WhatsApp` · `Voice AI` · `CRM` · `Campaigns` · `Knowledge` · `Automation`
 
-to help businesses capture, qualify, engage, and convert leads through connected AI-powered workflows.
+### Engineering Focus
 
-### 🧠 Under the Hood
+🤖 Agentic AI & LLM Applications
+🔌 Model Context Protocol (MCP)
+🧠 AI Memory & Knowledge Systems
+⚙️ Workflow Automation
+📈 AI-powered Revenue Systems
+🏢 Multi-tenant SaaS Architecture
 
-The platform is built around an agentic architecture combining:
-
-* 🤖 Specialized AI agents
-* 🧠 Short-term & long-term memory
-* 📚 Knowledge bases & retrieval
-* 🔌 MCP & tool integrations
-* ⚙️ Structured workflows & agentic execution
-* 🏢 Multi-tenant SaaS architecture
-* 📈 CRM & revenue automation
-* 📅 Calendar & business actions
-
-### 🔭 Engineering Focus
-
-I'm particularly interested in the layer between **AI models and real-world business execution**.
+### Architecture
 
 ```text
 Customer
@@ -49,29 +41,23 @@ CRM / Workflow / Business Action
 Persistent Customer Context
 ```
 
-The goal:
+### Current Technology
 
-> **Move AI from answering questions to executing business workflows.**
+`Python` `FastAPI` `LangGraph` `LLMs` `MCP` `PostgreSQL` `REST APIs`
 
-### 🛠️ Technologies
+### AI / ML Work
 
-`Python` `FastAPI` `LangGraph` `LLMs` `MCP` `PostgreSQL` `REST APIs` `SaaS` `AI Agents`
+I also experiment with model fine-tuning, applied ML and domain-specific AI systems.
 
-### 🔐 Private Platform
+🤗 **Hugging Face:** https://huggingface.co/kamal3501
+📊 **Kaggle:** https://www.kaggle.com/kamal3501
 
-The core **SaaSKit platform powering Synergon Suite is currently private**.
+### Product
 
-Selected components, technical experiments, and open-source contributions may be published over time.
+🌐 **Synergon Suite:** https://www.synergon.ai/
 
-### 🌐 Synergon Suite
+### Philosophy
 
-Learn more about what we're building:
-
-**https://www.synergon.ai/**
-
----
-
-### 💡 Building the next generation of business software
-
-**From applications people operate
-to intelligent systems that operate workflows.**
+> **The next generation of software won't just answer questions.**
+>
+> **It will execute workflows.**
