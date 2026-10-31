@@ -56,6 +56,8 @@ I also experiment with model fine-tuning, applied ML and domain-specific AI syst
 
 🌐 **Synergon Suite:** https://www.synergon.ai/
 
+  <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0bb337b1-7863-4704-aeba-45326be25c09" /> **Wizard Fun Explore:** https://www.kiwizi.in/ 
+
 ### Philosophy
 
 > **The next generation of software won't just answer questions.**
